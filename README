@@ -1,0 +1,7 @@
+Straighten out Vagrantfile and puppet
+    Upgrade ruby
+    restart postgis
+
+Shotgun - restart on every request
+Tux - Sinatra console
+D3 - Visualize Data

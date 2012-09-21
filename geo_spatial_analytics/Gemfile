@@ -1,0 +1,8 @@
+source :rubygems
+
+gem 'rspec'
+gem 'sinatra'
+gem 'sinatra-partial'
+gem 'csv-mapper'
+gem 'spatial_adapter'
+gem 'shotgun'

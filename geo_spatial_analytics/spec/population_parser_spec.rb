@@ -1,5 +1,5 @@
 require "rspec"
-require "lib/population_parser"
+require File.join(File.dirname(__FILE__), '../lib/services/parser/population_parser')
 
 describe "Population Parser" do
 

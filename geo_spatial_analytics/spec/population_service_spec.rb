@@ -1,5 +1,5 @@
 require 'rspec'
-require 'lib/population_service'
+require File.join(File.dirname(__FILE__), '../lib/services/population_service')
 
 describe "Population Service" do
 

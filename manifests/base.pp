@@ -1,0 +1,4 @@
+include post_gis
+include vim
+include ruby
+include geo_spatial_analytics

@@ -1,4 +1,4 @@
-require 'lib/population_parser'
+require File.join(File.dirname(__FILE__), 'parser/population_parser')
 
 class PopulationService
   def initialize
