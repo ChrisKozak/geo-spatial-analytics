@@ -1,0 +1,3 @@
+[submodule "ruby"]
+    path = modules/ruby
+    url = git://github.com/lucaspiller/puppet-ruby.git
